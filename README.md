@@ -1,5 +1,6 @@
-# みぜ(p2j📛)
-ガジェットとPCと音MADと鉄道が好きな学生。Web関連が好き。最近はPHP勉強してます。
+# みぜ(p2j)
+ガジェットとPCと音MADと鉄道が好きな学生。Web関連が好き。最近はPHP勉強してます。 
+呼び名はみぜかp2jかtentoumushi-jpの中ならなんでもいいです
 <p align="left">
   <a href="https://github.com/tentoumushi-jp/tentoumushi-jp">
     <img src="https://komarev.com/ghpvc/?username=tentoumushi-jp" alt="tentoumushi-jp" />
