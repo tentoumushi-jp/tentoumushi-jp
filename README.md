@@ -18,6 +18,6 @@
 > Discord→<a href="https://discord.com/users/832219200641564723">p2j#7592</a>  
 
 ## Q.なんでそんなに名前が多いんですか？
-A.p2j→Twitter凍結前の名前
-  tentoumushi-jp→ネット初期のTwitterID
-  みぜ→水ゼリーが好きだから
+A.p2j→Twitter凍結前の名前<br>
+  tentoumushi-jp→ネット初期のTwitterID<br>
+  みぜ→水ゼリーが好きだから<br>
