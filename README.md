@@ -16,3 +16,8 @@
 > Twitter **(新)** →<a href="https://twitter.com/mizedig">@mizedig</a>  
 > Twitter **(凍結)** →<a href="https://twitter.com/mizjerry_p2j">@mizjerry_p2j</a>  
 > Discord→<a href="https://discord.com/users/832219200641564723">p2j#7592</a>  
+
+## Q.なんでそんなに名前が多いんですか？
+A.p2j→Twitter凍結前の名前
+  tentoumushi-jp→ネット初期のTwitterID
+  みぜ→水ゼリーが好きだから
