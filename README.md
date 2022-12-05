@@ -17,7 +17,6 @@
 > Discord→<a href="https://discord.com/users/832219200641564723">p2j#7592</a>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31k7fytyomjbgchq4ocha2ayddj4)
-![Alt text](https://discord.com/widget?id=1037699338677272626&theme=dark)
 ## Q.なんでそんなに名前が多いんですか？
 A.p2j→Twitter凍結前の名前<br>
   tentoumushi-jp→ネット初期のTwitterID<br>
