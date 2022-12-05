@@ -1,6 +1,6 @@
-# みぜ(p2j)
-ガジェットとPCと音MADと鉄道が好きな学生。Web関連が好き。最近はPHP勉強してます。<br>
-呼び名はみぜかp2jかtentoumushi-jpの中ならなんでもいいです
+# Profire
+音MADとかネットミームが大好きです
+コーディングは初心者です
 <p align="left">
   <a href="https://github.com/tentoumushi-jp/tentoumushi-jp">
     <img src="https://komarev.com/ghpvc/?username=tentoumushi-jp" alt="tentoumushi-jp" />
@@ -14,7 +14,6 @@
 </p> 
 
 > Twitter **(新)** →<a href="https://twitter.com/mizedig">@mizedig</a>  
-> Twitter **(凍結)** →<a href="https://twitter.com/mizjerry_p2j">@mizjerry_p2j</a>  
 > Discord→<a href="https://discord.com/users/832219200641564723">p2j#7592</a>  
 
 ## Q.なんでそんなに名前が多いんですか？
