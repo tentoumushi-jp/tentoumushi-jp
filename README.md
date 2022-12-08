@@ -5,7 +5,7 @@
   <a href="https://github.com/tentoumushi-jp/tentoumushi-jp">
     <img src="https://komarev.com/ghpvc/?username=tentoumushi-jp" alt="tentoumushi-jp" />
   </a>
-  <a href="http://twitter.com/waterjelly_mize">
+  <a href="http://twitter.com/p2j_mize">
     <img height="20" src="https://img.shields.io/twitter/follow/waterjelly_mize?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/tentoumushi-jp">
